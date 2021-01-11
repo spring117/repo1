@@ -1,0 +1,6 @@
+懒人在线计算器http://www.ab126.com/
+
+gitee   pw 071726zgq001
+
+django工程
+d:\mydjangoproject\mysite\zgqapp
